@@ -1,0 +1,1 @@
+web: npx n8n --port 3000
